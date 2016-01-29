@@ -1,0 +1,1 @@
+# class Dog that extends class Animal. Created for applying Junior JavaScript developer position in WebbyLab 
